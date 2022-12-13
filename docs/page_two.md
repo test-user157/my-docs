@@ -18,12 +18,11 @@ These are the following sub-categories of this page:
 1. TOC
 {:toc}
 </details>
-
+{: .text-center}
 
 * Precalc does precalc
 * Calc does calc
 * DE does DE
-{: .px-7}
 
 ### Precalculus
 
