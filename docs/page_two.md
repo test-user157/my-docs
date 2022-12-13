@@ -19,6 +19,10 @@ These are the following sub-categories of this page:
 {:toc}
 </details>
 
+* Precalc does precalc
+* Calc does calc
+* DE does DE
+
 ### Precalculus
 
 There is no official course named 'Precalculus'. Its just a preparation for Calculus.
