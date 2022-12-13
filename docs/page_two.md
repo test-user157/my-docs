@@ -8,6 +8,8 @@ How about another page?
 {: .fs-8}
 {: .text-center}
 
+These are the following sub-categories of this page:
+
 <details open markdown="block">
   <summary>
     Table of contents
