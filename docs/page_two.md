@@ -25,6 +25,26 @@ There is no official course named 'Precalculus'. Its just a preparation for Calc
 
 The first badass course of higher mathematics
 
+Single-Variable Calc
+{: .fw-500}
+{: .text-center}
+
+Taught by David Jerrison. Video Lectures available.
+
+
+---
+
+
+Multi-Variable Calc
+{: .fw-500}
+{: .text-center}
+
+Taught by Denix Arroux. Video lectures are available.
+
+
+--
+
+
 ### Multivariable Calculus
 
 You are in for a ride.
