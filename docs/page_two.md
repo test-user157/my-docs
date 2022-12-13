@@ -14,8 +14,7 @@ These are the following sub-categories of this page:
   <summary>
     Table of contents
   </summary>
-  {: .text-center}
-- TOC
+ TOC
 {:toc}
 </details>
 {: .text-center}
