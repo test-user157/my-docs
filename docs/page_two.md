@@ -19,9 +19,11 @@ These are the following sub-categories of this page:
 {:toc}
 </details>
 
+
 * Precalc does precalc
 * Calc does calc
 * DE does DE
+{: .px-7}
 
 ### Precalculus
 
