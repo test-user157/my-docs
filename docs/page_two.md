@@ -24,11 +24,11 @@ These are the following sub-categories of this page:
 * Calc does calc
 * DE does DE
 
-### Precalculus
+### Courses
 
 There is no official course named 'Precalculus'. Its just a preparation for Calculus.
 
-### Calculus
+### Lectures
 
 The first badass course of higher mathematics
 
@@ -66,10 +66,7 @@ I think there are recitation videos available. However, I am not sure about the 
 ---
 
 
-### Multivariable Calculus
+### Books
 
 You are in for a ride.
 
-### Differential Equations
-
-Developing mathematical models that describe reality.
