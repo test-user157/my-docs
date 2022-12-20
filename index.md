@@ -5,11 +5,11 @@ nav_order: 1
 ---
 
 Welcome to my Test Doc site
-{: .fs-8}
+{: .fs-6}
 {: .text-center}
 
 aka, also known as T-Doc
-{: .fs-7}
+{: .fs-5}
 {: .text-center}
 
 Test site for Just The Docs.
