@@ -16,3 +16,5 @@ sass:
   style: compressed
   load_paths:
     - _sass
+  additional_import_paths:
+    - _sass    
