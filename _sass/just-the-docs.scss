@@ -1,4 +1,10 @@
+// Import the Just the Docs variables and mixins
+@import 'variables';
+@import 'mixins';
 
-.sidebar {
-  width: 200px;
-}
+// Override the default variables
+$sidebar-width: 240px;
+$color-brand-primary: #1abc9c;
+
+// Import the Just the Docs styles
+@import 'just-the-docs';
